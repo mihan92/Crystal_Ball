@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tasks">
+        <item>Выпить стакан солёной воды</item>
+        <item>Съесть гусеницу</item>
+        <item>Облиться ведром воды</item>
+        <item>Дать пендаля</item>
+        <item>Присесть 30 раз</item>
+        <item>Пропустить ход</item>
+    </string-array>
+</resources>
